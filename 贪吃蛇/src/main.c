@@ -1,7 +1,10 @@
-#include <stdio.h>
+#include "proc.h"
 
-int main()
+int main(void)
 {
-    printf("Hello, World!\n");
+    CreatMainWindow();
+    GameBegin();
+    GameOver();
+
     return 0;
 }
