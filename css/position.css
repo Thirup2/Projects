@@ -1,0 +1,15 @@
+body {
+    background-color: aqua;
+}
+
+.main {
+    width: 50%;
+    position: relative;
+    left: 15%;
+    right: 35%;
+}
+
+nav ul li{
+    float: left;
+    margin-right: 5%;
+}
